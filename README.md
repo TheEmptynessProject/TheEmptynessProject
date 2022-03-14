@@ -8,3 +8,9 @@
     <img alt="Python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=">
   </a>
 </p>
+<h2 align="center">API / DB</h2>
+<p align="center">
+  <a href="">
+    <img alt="JavaScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=000000&label=">
+  </a>
+</p>

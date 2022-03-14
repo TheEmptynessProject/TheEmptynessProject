@@ -9,7 +9,7 @@
     <img alt="Lua" src="https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=222222&logo=Lua&logoColor=2C2D72&label=">
   </a>
   <a href="">
-    <img alt="Python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=222222&logo=Python&logoColor=#776AB&label=">
+    <img alt="Python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=222222&logo=Python&logoColor=776AB&label=">
   </a>
   <a href="">
     

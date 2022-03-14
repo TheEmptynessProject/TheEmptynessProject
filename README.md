@@ -6,6 +6,7 @@
     <img alt="HTML" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=1572B6&logo=css3&logoColor=FFFFFF&label=">
     <img alt="Lua" src="https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=Lua&logoColor=FFFFFF&label=">
     <img alt="Python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=">
+    <img alt="C++" src="https://img.shields.io/static/v1?style=for-the-badge&message=C++&color=00599C&logo=C++&logoColor=FFFFFF&label=">
   </a>
 </p>
 <h2 align="center">API / DB</h2>

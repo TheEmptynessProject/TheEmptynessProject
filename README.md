@@ -1,5 +1,6 @@
-<h1 align="center">BTC ADDRESS:</h1>
-<h2 align="center" style="color: black;">bc1qgt73nqvygqhu9stwe2az0smrnl4y3c5gnuzxadfzf2uluq69kgaqx3d2qt</h2>
+<hr>
+<h2 align="center">BTC ADDRESS:</h2>
+<h3 align="center">bc1qgt73nqvygqhu9stwe2az0smrnl4y3c5gnuzxadfzf2uluq69kgaqx3d2qt</h3>
 <hr>
 <h2 align="center">Languages</h2>
 <p align="center">
@@ -12,6 +13,7 @@
     <img alt="C++" src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=">
   </a>
 </p>
+<hr>
 <h2 align="center">Databases</h2>
 <p align="center">
   <a href="" style='text-decoration:none;'>

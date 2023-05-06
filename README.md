@@ -1,7 +1,4 @@
 <hr>
-<h2 align="center">BTC ADDRESS:</h2>
-<h3 align="center">bc1qgt73nqvygqhu9stwe2az0smrnl4y3c5gnuzxadfzf2uluq69kgaqx3d2qt</h3>
-<hr>
 <h2 align="center">Languages</h2>
 <p align="center">
   <a href="" style='text-decoration:none;'>

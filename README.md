@@ -1,3 +1,6 @@
+# Projects
+## Enigma Hub - Lua
+A to be open source / released project for any game. After the full release, this will become a learning project for to be developers (or something like that)
 <hr>
 <h2 align="center">Languages</h2>
 <p align="center">

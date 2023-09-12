@@ -8,7 +8,7 @@
     <img alt="Lua" src="https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=Lua&logoColor=FFFFFF&label=">
     <img alt="Python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=">
     <img alt="C++" src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=">
-    <img alt="Flutter" src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=Flutter&logoColor=FFFFFF&label=">
+    <img alt="Flutter" src="https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=00599C&logo=Flutter&logoColor=FFFFFF&label=">
   </a>
 </p>
 <hr>

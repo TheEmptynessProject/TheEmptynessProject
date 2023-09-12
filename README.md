@@ -14,7 +14,7 @@
 <h2 align="center">Databases</h2>
 <p align="center">
   <a href="" style='text-decoration:none;'>
-    <img alt="JavaScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=">
+    <img alt="MongoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=">
   </a>
 </p>
 <hr>

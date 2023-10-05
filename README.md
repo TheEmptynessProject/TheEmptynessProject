@@ -19,4 +19,24 @@
   </a>
 </p>
 <hr>
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheEmptynessProject)](https://github.com/ryo-ma/github-profile-trophy)
+<details>
+  <summary>GitHub Stats</summary>
+
+[![GitHub Stats Card]](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<details>
+  <summary>GitHub Trophies</summary>
+
+[![GitHub Trophies]](https://github.com/ryo-ma/github-profile-trophy)
+
+</details>
+
+<details>
+  <summary>GitHub Top Langs</summary>
+
+[![GitHub Top Langs]](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+

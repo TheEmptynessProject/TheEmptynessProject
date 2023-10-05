@@ -40,3 +40,6 @@
 
 </details>
 
+[github stats card]: https://github-readme-stats.vercel.app/api/?username=TheEmptynessProject&theme=merko
+[github trophies]: https://github-profile-trophy.vercel.app/?username=TheEmptynessProject&column=4&margin-w=18&margin-h=15&theme=merko
+[github top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=TheEmptynessProject&layout=compact&theme=merko

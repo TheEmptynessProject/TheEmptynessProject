@@ -1,0 +1,23 @@
+<svg width="200" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .cube {
+      fill: rgba(0, 255, 0, 0.5);
+      stroke: #000;
+      stroke-width: 0.5;
+      transform-origin: 50% 50%;
+      animation: rotate 5s infinite linear;
+    }
+    @keyframes rotate {
+      0% { transform: rotateX(0deg) rotateY(0deg); }
+      100% { transform: rotateX(360deg) rotateY(360deg); }
+    }
+  </style>
+  <g class="cube">
+    <polygon points="30,10 70,10 90,30 50,30" />
+    <polygon points="30,10 50,30 10,30 10,10" />
+    <polygon points="70,10 90,30 90,70 70,50" />
+    <polygon points="10,30 10,70 30,50 30,10" />
+    <polygon points="30,50 70,50 90,70 50,70" />
+    <polygon points="10,70 30,50 10,30 10,70" />
+  </g>
+</svg>

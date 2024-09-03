@@ -19,27 +19,6 @@
   </a>
 </p>
 <hr>
-<details>
-  <summary>GitHub Stats</summary>
-
-[![GitHub Stats Card]](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-<details>
-  <summary>GitHub Trophies</summary>
-
-[![GitHub Trophies]](https://github.com/ryo-ma/github-profile-trophy)
-
-</details>
-
-<details>
-  <summary>GitHub Top Langs</summary>
-
-[![GitHub Top Langs]](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-[github stats card]: https://github-readme-stats.vercel.app/api/?username=TheEmptynessProject&theme=merko
-[github trophies]: https://github-profile-trophy.vercel.app/?username=TheEmptynessProject&column=4&margin-w=18&margin-h=15&theme=merko
-[github top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=TheEmptynessProject&layout=compact&theme=merko
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheEmptynessProject&color=blueviolet" alt="Profile views">
+</p>

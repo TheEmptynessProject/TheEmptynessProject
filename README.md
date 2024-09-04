@@ -27,13 +27,5 @@
 <hr>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/TheEmptynessProject/TheEmptynessProject/main/cube.html" target="_blank">
-    <img src="https://img.shields.io/badge/View%203D%20Cube-4285F4?style=for-the-badge&logo=GitHub&logoColor=white" alt="View 3D Cube">
-  </a>
-</p>
-
-<hr>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheEmptynessProject&color=blueviolet" alt="Profile views">
 </p>

@@ -17,6 +17,7 @@
   <img alt="Python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=">
   <img alt="C++" src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=">
   <img alt="Flutter" src="https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=00599C&logo=Flutter&logoColor=FFFFFF&label=">
+  <img alt="Java" src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=547C99&logo=Oracle&logoColor=E55844&label=">
 </p>
 
 ### Databases

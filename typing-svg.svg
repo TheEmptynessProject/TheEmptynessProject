@@ -2,14 +2,24 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>        
+        @keyframes typing {
+          0% { width: 0 }
+          35%, 65% { width: 267px}
+          100% { width: 0 }
+        }
+
+        @keyframes blink {
+          50% { border-color: transparent; }
+        }
+        
         .container {
-          position:absolute;
           display: flex;
           justify-content: center;
           align-items: center;
           height: 100%;
           width: 100%;
           text-align: center;
+          position: absolute;
         }
         
         .typed-out {
@@ -19,6 +29,8 @@
           font-size: 24px;
           font-family: monospace;
           color: #00FF00;
+          animation: typing 4s steps(20, end) infinite, blink .75s step-end infinite;
+          width: 267px;
         }
       </style>
       <div class="container">

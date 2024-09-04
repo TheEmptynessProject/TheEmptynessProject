@@ -1,23 +1,47 @@
-<svg width="200" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
   <style>
+    @keyframes rotate {
+      0% {
+        transform: rotateX(0deg) rotateY(0deg);
+      }
+      100% {
+        transform: rotateX(360deg) rotateY(360deg);
+      }
+    }
+    
     .cube {
-      fill: rgba(0, 255, 0, 0.5);
-      stroke: #000;
-      stroke-width: 0.5;
+      transform-style: preserve-3d;
       transform-origin: 50% 50%;
       animation: rotate 5s infinite linear;
     }
-    @keyframes rotate {
-      0% { transform: rotateX(0deg) rotateY(0deg); }
-      100% { transform: rotateX(360deg) rotateY(360deg); }
+
+    .face {
+      fill: rgba(255, 255, 255, 0.8);
+      stroke: #ccc;
+      stroke-width: 2;
+      position: absolute;
+      width: 100px;
+      height: 100px;
     }
+
+    .front  { background-color: #6A0DAD; /* Deep Purple */ transform: translateZ(50px); }
+    .back   { background-color: #C299FF; /* Soft Lilac */ transform: rotateY(180deg) translateZ(50px); }
+    .right  { background-color: #191970; /* Midnight Blue */ transform: rotateY(90deg) translateZ(50px); }
+    .left   { background-color: #40E0D0; /* Turquoise Blue */ transform: rotateY(-90deg) translateZ(50px); }
+    .top    { background-color: #39FF14; /* Neon Green */ transform: rotateX(90deg) translateZ(50px); }
+    .bottom { background-color: #FF1493; /* Electric Pink */ transform: rotateX(-90deg) translateZ(50px); }
   </style>
-  <g class="cube">
-    <polygon points="30,10 70,10 90,30 50,30" />
-    <polygon points="30,10 50,30 10,30 10,10" />
-    <polygon points="70,10 90,30 90,70 70,50" />
-    <polygon points="10,30 10,70 30,50 30,10" />
-    <polygon points="30,50 70,50 90,70 50,70" />
-    <polygon points="10,70 30,50 10,30 10,70" />
-  </g>
+
+  <foreignObject x="0" y="0" width="200" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; position: relative;">
+      <div class="cube" style="width: 100px; height: 100px; position: absolute; left: 50px; top: 50px;">
+        <div class="face front"></div>
+        <div class="face back"></div>
+        <div class="face right"></div>
+        <div class="face left"></div>
+        <div class="face top"></div>
+        <div class="face bottom"></div>
+      </div>
+    </div>
+  </foreignObject>
 </svg>

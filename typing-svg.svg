@@ -7,6 +7,10 @@
           50% { width: 100% }
           100% { width: 0 }
         }
+
+        @keyframes blink {
+          50% { border-color: transparent; }
+        }
         
         .container {
           display: inline-block;
@@ -18,7 +22,7 @@
           font-size: 24px;
           font-family: monospace;
           color: #00FF00;
-          animation: typing 4s steps(20, end) infinite;
+          animation: typing 4s steps(20, end) infinite, blink .75s step-end infinite;
         }
       </style>
       <div class="container">

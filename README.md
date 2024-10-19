@@ -1,5 +1,3 @@
-<h1 align="center">Welcome to My GitHub Profile</h1>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheEmptynessProject/TheEmptynessProject/main/typing-svg.svg" alt="Typing SVG" />
 </p>
